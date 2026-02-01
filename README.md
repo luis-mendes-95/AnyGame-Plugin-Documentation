@@ -184,7 +184,6 @@ AnyGame is available through **Patreon Early Access**:
 | 🎬 **YouTube** | [DevLifeUnreal](https://www.youtube.com/channel/UC7FXcCmIPaoQUpkQCPFf15g) |
 | 🔴 **Patreon** | [DevLifeUnreal](https://www.patreon.com/c/DevLifeUnreal) |
 | 💼 **LinkedIn** | [[Luis Mendes](https://www.linkedin.com/in/luis-mendes-aab672239)](https://www.linkedin.com/in/luis-mendes-aab672239)) |
-| 💬 **Discord** | [AnyGame Community](https://discord.gg/bg7cukuc) |
 
 ---
 
